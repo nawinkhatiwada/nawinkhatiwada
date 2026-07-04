@@ -1,18 +1,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 January 2026 - To: 01 July 2026
+From: 14 January 2026 - To: 02 July 2026
 
-Total Time: 462 hrs 19 mins
+Total Time: 470 hrs 54 mins
 
-Kotlin                 414 hrs 35 mins       ██████████████████████░░░   88.44 %
-Java                   12 hrs 55 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
-XML                    11 hrs 40 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
-JavaScript             6 hrs 56 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
-Other                  6 hrs 27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
-Markdown               6 hrs 9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
-Java Properties        1 hr 58 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
-Rich Text Format       1 hr 30 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Kotlin                 422 hrs 1 min         ██████████████████████░░░   88.40 %
+Java                   13 hrs 27 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+XML                    11 hrs 43 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+JavaScript             6 hrs 56 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+Other                  6 hrs 28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+Markdown               6 hrs 11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+Java Properties        1 hr 58 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+GraphQL                1 hr 33 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->
